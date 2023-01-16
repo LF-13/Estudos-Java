@@ -1,0 +1,20 @@
+//package MaratonaJavaViradoNoJiraya.javacore.Gassociacao.Test;
+//
+//import java.util.Scanner;
+//
+//public class LeituraDoTecladoTest01Video68 {
+//    public static void main(String[] args) {
+//        Scanner scanner = new Scanner(System.in);
+//        System.out.println("Digite seu nome aqui:  ");
+//        String nome = scanner.nextLine();
+//        System.out.println("Digite sua idade");
+//        int idade = scanner.nextInt();
+//        System.out.println("Digite M ou F para seu sexo");
+//        char sexo = scanner.next().charAt(0);
+//        System.out.println("-----------------");
+//        System.out.println("Nome " + nome);
+//        System.out.println("Idade " + idade);
+//        System.out.println("Sexo " + sexo);
+//
+//    }
+//}
