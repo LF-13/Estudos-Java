@@ -1,4 +1,4 @@
-package MaratonaJavaViradoNoJiraya.javacore.Rdatas;
+package MaratonaJavaViradoNoJiraya.javacore.Sformatacao.test;
 
 import java.text.DateFormat;
 import java.util.Calendar;
